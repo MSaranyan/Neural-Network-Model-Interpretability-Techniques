@@ -11,7 +11,6 @@ The Pixel-space Saliency Map Technique
 
 
 ![Screenshot from 2021-06-25 09-52-34](https://user-images.githubusercontent.com/86059500/123369378-48070980-d59b-11eb-89fb-08878b41aac9.png)
-
 ![Screenshot from 2021-06-25 09-52-49](https://user-images.githubusercontent.com/86059500/123369386-4b01fa00-d59b-11eb-9ad8-231aebfddd3f.png)
 
 
