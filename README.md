@@ -3,6 +3,7 @@ Different techniques for interpreting the Decisions of Convolution Neural Networ
 Codes for the Class Activation Map, Gradient weighted Class Activation Map, pixel-space saliency maps and Layer CAM.
 
 Layer CAM
+
 Layer CAM is the technique of visualizing the gradient weighted feature maps of the shallow layers of the Convolutional neural networks to identify the regions of the input used for the target predictions. It is the generalized version of the Gradient CAM which applied to the final convolution layer only.
 
 ![1](https://user-images.githubusercontent.com/86059500/129474306-966905ea-6333-4e7d-9ae8-69178e234ada.png)
