@@ -9,7 +9,6 @@ Layer CAM is the technique of visualizing the gradient weighted feature maps of 
 ![1](https://user-images.githubusercontent.com/86059500/129474306-966905ea-6333-4e7d-9ae8-69178e234ada.png)
 ![2](https://user-images.githubusercontent.com/86059500/129474309-1ffd1bc0-2b79-484e-89c7-4327da8a8551.png)
 
-The Layer CAM technique is published in the research paper: https://arxiv.org/pdf/1901.07683
 
 The Class Activation Map Technique
 ![image](https://user-images.githubusercontent.com/86059500/123368764-032ea300-d59a-11eb-850c-5341ee5e67df.png)
